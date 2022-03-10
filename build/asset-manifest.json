@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e610a8f.css",
-    "main.js": "/static/js/main.72cc8b16.js",
+    "main.css": "/static/css/main.bb5aaa33.css",
+    "main.js": "/static/js/main.d8499f67.js",
     "static/media/ai.png": "/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/encore_bird (1080p).mp4": "/static/media/encore_bird (1080p).9a761ae9bbc6daf9b388.mp4",
     "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
     "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
     "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
     "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
     "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/Myspace_logo.png": "/static/media/Myspace_logo.bcad634bb3fe42ffcbe7.png",
+    "static/media/logo.png": "/static/media/logo.b60313d512b4172211b3.png",
+    "static/media/icon.png": "/static/media/icon.1d4393574230a92b514f.png",
     "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "static/media/react-original.svg": "/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/nodejs-plain.svg": "/static/media/nodejs-plain.ad2a9a8806d9bdbd287fb34b1eebd956.svg",
+    "static/media/javascript-plain.svg": "/static/media/javascript-plain.bacc3387f463f5b56f433827347c6155.svg",
+    "static/media/blob1.svg": "/static/media/blob1.2666230447e606c86ffd2a7ae9fb5509.svg",
     "index.html": "/index.html",
-    "main.9e610a8f.css.map": "/static/css/main.9e610a8f.css.map",
-    "main.72cc8b16.js.map": "/static/js/main.72cc8b16.js.map"
+    "static/media/css3-plain.svg": "/static/media/css3-plain.4f50b33af1d2115e9ee75ed4b1570e17.svg",
+    "static/media/html5-plain.svg": "/static/media/html5-plain.69274ea277b1ee86ba50abd24b291122.svg",
+    "static/media/firebase-plain.svg": "/static/media/firebase-plain.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
+    "main.bb5aaa33.css.map": "/static/css/main.bb5aaa33.css.map",
+    "main.d8499f67.js.map": "/static/js/main.d8499f67.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e610a8f.css",
-    "static/js/main.72cc8b16.js"
+    "static/css/main.bb5aaa33.css",
+    "static/js/main.d8499f67.js"
   ]
 }
