@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+
+:root {
+  --font-family: "Manrope", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #68abf9 1.84%, #50eb8f 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #68abf9 -13.86%, #50eb8f 99.55%);
+
+  --color-bg:   /* ff 3.6+ */ -moz-linear-gradient(
+    301deg,
+    rgba(21, 84, 88, 1) 0%,
+    rgba(15, 29, 45, 1) 100%
+  );
+
+  /* safari 5.1+,chrome 10+ */
+  background: -webkit-linear-gradient(
+    301deg,
+    rgba(21, 84, 88, 1) 0%,
+    rgba(15, 29, 45, 1) 100%
+  );
+
+  /* opera 11.10+ */
+  background: -o-linear-gradient(
+    301deg,
+    rgba(21, 84, 88, 1) 0%,
+    rgba(15, 29, 45, 1) 100%
+  );
+
+  /* ie 6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#155458', endColorstr='#0F1D2D', GradientType=0 );
+
+  /* ie 10+ */
+  background: -ms-linear-gradient(
+    301deg,
+    rgba(21, 84, 88, 1) 0%,
+    rgba(15, 29, 45, 1) 100%
+  );
+
+  /* global 94%+ browsers support */
+  background: linear-gradient(
+    301deg,
+    rgba(21, 84, 88, 1) 0%,
+    rgba(15, 29, 45, 1) 100%
+  );
+  --color-footer: #031b34;
+  --color-blog: #042c54;
+  --color-text: #81afdd;
+  --color-subtext: #ff8a71;
+}
