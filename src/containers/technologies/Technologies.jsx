@@ -1,6 +1,6 @@
 import React from 'react'
 import { Feature } from '../../components';
-import './whatUNYTE.css';
+import './technologies.css';
 import html from '../../assets/html5-plain.svg'
 import css from '../../assets/css3-plain.svg'
 import react from '../../assets/react-original.svg'
