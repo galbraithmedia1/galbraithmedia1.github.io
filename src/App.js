@@ -3,8 +3,8 @@
 import React from 'react';
 import backgroundVid from './assets/encore_bird (1080p).mp4'
 
-import { Footer, Blog, Possibility, Features, WhatUNYTE, Header } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { Footer, Possibility, Features, WhatUNYTE, Header } from './containers';
+import { CTA, Navbar } from './components';
 
 import './App.css';
 
