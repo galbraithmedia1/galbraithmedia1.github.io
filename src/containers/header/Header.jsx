@@ -1,7 +1,5 @@
 import React from "react";
 import "./header.css";
-import people from "../../assets/people.png";
-import ai from "../../assets/ai.png";
 
 const Header = () => {
   return (
@@ -12,7 +10,7 @@ const Header = () => {
         </h1>
 
         <p>
-        Hi, my name is Taylor. I grew up in Sugar City, Idaho where there wasn’t a whole lot to do other than pick potatoes. If fun was to be experienced, it had to be created. I found myself constantly being interested in things where I could be an inventor, musician, and entrepreneur. 
+        Hi, my name is Taylor. I grew up in Sugar City, Idaho where there was not a whole lot to do other than pick potatoes. If fun was to be experienced, it had to be created. I found myself constantly being interested in things where I could be an inventor, musician, and entrepreneur. 
         </p>
 
         <div className="gpt3__header-content__input">
