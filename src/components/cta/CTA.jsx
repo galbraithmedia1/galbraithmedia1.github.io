@@ -5,17 +5,17 @@ const CTA = () => {
         <div className='gpt3__cta'>
             <div className='gpt3__cta-content'>
                 <p>
-                Request Early Access to Get Started
+                Excepteur sint occaecat cupidatat non proident
                 </p>
                 <h3>
-                Register today & start exploring the endless possiblities.
+                Open to work on dope projects
                 </h3>
 
 
             </div>
 
             <div className='gpt3__cta-btn'>
-                <button type="button">Get Started</button>
+                <button type="button">Contact</button>
                 
                 </div>
         </div>

@@ -1,24 +1,26 @@
 import React from 'react'
 import './footer.css';
 import gpt3Logo from "../../assets/logo.png";
+import icon from '../../assets/icon.png'
+
 const Footer = () => {
     return (
         <div className='gpt3__footer section__padding'>
 
             <div className='gpt3__footer-heading'>
                 <h1 className='gradient__text'>
-                Do you want to step in to the future before others
+                Lorem ipsum dolor sit amet, consecteturx
                 </h1>
 
 
             </div>
             <div className='gpt3__footer-btn'>
 
-            <p>Request Earily Access</p>
+            <p>Contact</p>
             </div>
             <div className='gpt3__footer-links'>
                 <div className='gpt3__footer-links_logo'>
-                    <img src={gpt3Logo} alt="logo"/>
+                    <img src={icon} alt="logo"/>
                     <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
 
 

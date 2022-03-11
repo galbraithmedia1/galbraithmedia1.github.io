@@ -26,13 +26,15 @@ const WhatUNYTE = () => {
 
             </div>
             <div className='gpt3__whatgpt3-container'>
+            < Feature img={javascript} title="JAVASCRIPT" alt="javascript" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+            <Feature img={html} title="HTML" alt="html" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
                 <Feature img={css} title="CSS" alt="css"text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. " />
-               <Feature img= {react} title="REACT"alt="react" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"/>
-               < Feature img={javascript} title="JAVASCRIPT" alt="javascript" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-               < Feature img= {express} title="EXPRESS" alt="express"text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-               < Feature img= {firebase} title="FIREBASE" alt="firebase"text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-               <Feature img={html} title="HTML" alt="html" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+               
                <Feature img={nodejs} title="node" alt="html" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+               < Feature img= {express} title="EXPRESS" alt="express"text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+               {/* < Feature img= {firebase} title="FIREBASE" alt="firebase"text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" /> */}
+               <Feature img= {react} title="REACT"alt="react" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"/>
+              
             </div>
         </div>
     )
