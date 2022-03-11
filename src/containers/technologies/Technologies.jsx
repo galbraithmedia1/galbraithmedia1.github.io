@@ -7,7 +7,7 @@ import react from '../../assets/react-original.svg'
 import javascript from '../../assets/javascript-plain.svg'
 import nodejs from '../../assets/nodejs-plain.svg'
 import express from '../../assets/express.png'
-import firebase from '../../assets/firebase-plain.svg'
+
 
 
 
